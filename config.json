@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchdpdate",
+        "uuid": 34727703,
+        "checksum": "9ku2og"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
